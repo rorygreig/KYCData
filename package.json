@@ -4,6 +4,7 @@
     "yql": "",
     "csvtojson": "",
     "mongodb": "",
-    "sails-mongo": ""
+    "sails-mongo": "",
+    "forever": ""
   }
 }
