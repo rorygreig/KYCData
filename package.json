@@ -1,0 +1,6 @@
+{
+  "name": "KYCData",
+  "dependencies": {
+    "yql": ""
+  }
+}
