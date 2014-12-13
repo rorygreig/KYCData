@@ -1,6 +1,7 @@
 {
   "name": "KYCData",
   "dependencies": {
-    "yql": ""
+    "yql": "",
+    "fs" : ""
   }
 }
