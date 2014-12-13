@@ -1,6 +1,8 @@
 {
   "name": "KYCData",
   "dependencies": {
-    "yql": ""
+    "yql": "",
+    "csvtojson": "",
+    "mongodb": ""
   }
 }
