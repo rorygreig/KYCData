@@ -12,7 +12,7 @@ module.exports = {
    */
   all: function (req, res) {
 
-    Target.find()
+    Targets.find()
       .exec(function(err,results){
             if(err){
               console.log('Error searching for all targets');
@@ -28,7 +28,7 @@ module.exports = {
    */
   peps: function (req, res) {
 
-    Target.find()
+    Targets.find()
       .where({listType: "PEP"})
       .exec(function(err,results){
             if(err){
@@ -45,7 +45,7 @@ module.exports = {
    */
   watchlists: function (req, res) {
 
-    Target.find()
+    Targets.find()
       .where({listType: "Watchlist"})
       .exec(function(err,results){
             if(err){
