@@ -21,19 +21,19 @@ new yql.exec(getTargetsQuery, function(response) {
   // create results array
   individuals.forEach(function(target){
     var result = Object();
-    result.entity_type = target.sdnType;
-    result.first_name = target.firstName;
-    result.last_name = target.lastName;
+    result.entityType = target.sdnType;
+    result.firstName = target.firstName;
+    result.lastName = target.lastName;
     result.nationality = "";
-    result.data_source = "US Sanctions List";
-    result.list_type = "Watchlist";
+    result.dataSource = "US Sanctions List";
+    result.listType = "Watchlist";
     result.addressList = target.addressList;
-    result.aka_list = target.akaList;
+    result.akaList = target.akaList;
 
     results.push(result);
-  })
+  });
 
-  console.log(results);
+  console.log(targets.length);
 
   //save results to JSON
   saveToJSON(results, './UStargets.json');

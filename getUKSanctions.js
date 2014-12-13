@@ -1,9 +1,9 @@
 var yql = require('yql');
+var fs = require('fs');
 
 var targets = Array();
 
 var url = "http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.htm";
-// var url = "./UKsanctions.html";
 
 // var getTargetsQuery = "select * from html where url='" + url + "' and xpath='//li'";
 var getTargetsQuery = "select * from data.html.cssselect where url='" + url + "' AND css='.SpacedOut'";
@@ -30,3 +30,15 @@ new yql.exec(getTargetsQuery, function(response) {
   });
 
 });
+
+function saveToJSON(targets, fileName){
+
+  fs.appendFile(fileName, JSON.stringify(targets, null, 4), function(err) {
+      if(err) {
+        console.log(err);
+      } else {
+        console.log("JSON saved to " + fileName);
+      }
+  });
+
+}
