@@ -3,6 +3,7 @@
   "dependencies": {
     "yql": "",
     "csvtojson": "",
-    "mongodb": ""
+    "mongodb": "",
+    "sails-mongo": ""
   }
 }
