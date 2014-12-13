@@ -1,4 +1,4 @@
-entity_type,nationality,data_source,list_type,first_name,last_name,party,constituency,URI
+entityType,nationality,dataSource,listType,firstName,lastName,party,constituency,URI
 Individual,UK,http://www.theyworkforyou.com,PEP,Diane,Abbott,Labour,Hackney North and Stoke Newington,http://www.theyworkforyou.com/mp/10001/diane_abbott/hackney_north_and_stoke_newington
 Individual,UK,http://www.theyworkforyou.com,PEP,Debbie,Abrahams,Labour,Oldham East and Saddleworth,http://www.theyworkforyou.com/mp/25034/debbie_abrahams/oldham_east_and_saddleworth
 Individual,UK,http://www.theyworkforyou.com,PEP,Nigel,Adams,Conservative,Selby and Ainsty,http://www.theyworkforyou.com/mp/24878/nigel_adams/selby_and_ainsty
