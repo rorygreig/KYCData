@@ -42,7 +42,7 @@ new yql.exec(getTargetsQuery, function(response) {
 
 function saveToJSON(targets, fileName){
 
-  fs.appendFile(fileName, JSON.stringify(targets, null, 4), function(err) {
+  fs.writeFile(fileName, JSON.stringify(targets, null, 4), function(err) {
       if(err) {
         console.log(err);
       } else {

@@ -1,7 +1,7 @@
 var yql = require('yql');
 var fs = require('fs');
 
-var targets = Array();
+var results = Array();
 
 var url = "http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.htm";
 
@@ -20,20 +20,34 @@ new yql.exec(getTargetsQuery, function(response) {
     return target.strong.indexOf('Organisation Name') == -1;
   });
 
+  // create results array
   individuals.forEach(function(target){
+    var result = Object();
     var details = target.p.content;
     details = details.split("\n");
-    details.forEach(function(detail){
-      detail = detail.trim();
-    });
-    console.log(details);
+
+    result.entityType = 'Individual';
+    result.firstName = details[1].trim();
+    result.lastName = details[0].trim();
+    result.nationality = "";
+    result.dataSource = "UK Sanctions List";
+    result.listType = "Watchlist";
+    result.addressList = "";
+    result.akaList = "";
+
+    results.push(result);
   });
+
+  console.log(results.length)
+
+  //save results to JSON
+  saveToJSON(results, './UKtargets.json');
 
 });
 
 function saveToJSON(targets, fileName){
 
-  fs.appendFile(fileName, JSON.stringify(targets, null, 4), function(err) {
+  fs.writeFile(fileName, JSON.stringify(targets, null, 4), function(err) {
       if(err) {
         console.log(err);
       } else {
