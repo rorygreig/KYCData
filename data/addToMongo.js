@@ -14,11 +14,9 @@ MongoClient.connect("mongodb://localhost:27017/kyc",function(err,db){
 			db.collection('usSanctions').insert(element,{w:0});
 		});
 
-/*
-		require("./Data/UK_Sanctions/UKtargets.json").forEach(function(element){
+		require("./UK_Sanctions/UKtargets.json").forEach(function(element){
 			db.collection('ukSanctions').insert(element,{w:0});
 		});		
-*/
 
 	}
 });
