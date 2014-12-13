@@ -2,11 +2,7 @@
   "name": "KYCData",
   "dependencies": {
     "yql": "",
-<<<<<<< HEAD
-    "fs" : ""
-=======
     "csvtojson": "",
     "mongodb": ""
->>>>>>> 84160e788b3dc47468bf54c2598fa75ca4da4b5f
   }
 }
