@@ -1,7 +1,8 @@
 var yql = require('yql');
 var fs =  require('fs');
 var async = require('async');
-var countryCodes = require('./data/ISOCountryCodes');
+// var countryCodes = require('./data/ISOCountryCodes');
+var countryCodes = require('./data/FIPS_country_codes/FIPScodes.json');
 
 var results = Array();
 var countries = Array();
@@ -11,8 +12,8 @@ var targetResults = Array();
 countryCodes.forEach(function(countryCode){
   console.log(country);
   var country = Object();
-  country.url = "https://www.cia.gov/library/publications/world-leaders-1/" + countryCode["alpha-2"] + ".html";
-  country.name = countryCode.name;
+  country.url = "https://www.cia.gov/library/publications/world-leaders-1/" + countryCode.Code + ".html";
+  country.name = countryCode.Name;
   countries.push(country);
 });
 
