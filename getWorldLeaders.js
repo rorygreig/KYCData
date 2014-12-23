@@ -1,49 +1,59 @@
 var yql = require('yql');
 var fs =  require('fs');
+var async = require('async');
 var countryCodes = require('./data/ISOCountryCodes');
 
 var results = Array();
+var countries = Array();
+var queryFuncs = Array();
+var targetResults = Array();
 
-var urls = Array();
-
-countryCodes.forEach(function(country){
-  // console.log(country);
-  urls.push("https://www.cia.gov/library/publications/world-leaders-1/" + country["alpha-2"] + ".html");
+countryCodes.forEach(function(countryCode){
+  console.log(country);
+  var country = Object();
+  country.url = "https://www.cia.gov/library/publications/world-leaders-1/" + countryCode["alpha-2"] + ".html";
+  country.name = countryCode.name;
+  countries.push(country);
 });
 
-// console.log(urls);
+console.log(countries);
 
-var queries = Array();
+countries.forEach(function(country){
+  var query = "select * from html where url='" + country.url + "' and compat='html5' and xpath='//*[@id=\"cosContent1\"]/div[4]/div/div/ul'";
 
-urls.forEach(function(url){
-  // select * from html where url="https://www.cia.gov/library/publications/world-leaders-1/AF.html" and compat="html5" and xpath='//*[@id="cosContent1"]/div[4]/div/div/ul'
+  queryFuncs.push(function(callback){
+    new yql.exec(query, function(response) {
+      if(response.query.results !== null){
+        var results = response.query.results.ul.li;
+        var targets = Array();
 
-  var query = "select * from html where url='" + url + "' and compat='html5' and xpath='//*[@id=\"cosContent1\"]/div[4]/div/div/ul'";
-  queries.push(query);
-});
-
-// console.log(queries);
-console.log(queries[0]);
-
-new yql.exec(queries[0], function(response) {
-  var results = response.query.results.ul.li;
-  var targets = Array();
-  // console.log(results);
-
-  results.forEach(function(item){
-    targets.push(extractTarget(item));
+        results.forEach(function(item){
+          var target = extractTarget(item);
+          target.country = country.name;
+          targets.push(target);
+        });
+        targetResults = targetResults.concat(targets);
+      }
+      callback();
+    });
   });
 
-  saveToJSON(targets, './data/CIAWorldLeaders/targets.json');
+});
 
+async.parallel(queryFuncs, function(){
+  //save concatenated results here
+  console.log(targetResults);
+  saveToJSON(targetResults, './data/CIAWorldLeaders/targets.json');
 });
 
 function extractTarget(listItem){
   var target = Object();
   var td = listItem.table.tbody.tr.td.table.tbody.tr.td;
-  target.position = td[0].span.span.content;
-  target.name = td[1].span.span.content;
-  console.log(target);
+  if(td !== undefined){
+    target.position = td[0].span.span.content;
+    target.name = td[1].span.span.content;
+    console.log(target);
+  }
   return(target);
 }
 
