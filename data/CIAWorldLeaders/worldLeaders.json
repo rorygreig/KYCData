@@ -1,1 +1,2214 @@
-null
+[
+    {
+        "id": "cosid_2251504547",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Pres."
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Ashraf GHANI Ahmadzai"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_1412889840153",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " CEO"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Abdullah ABDULLAH"
+                                                },
+                                                "em": {
+                                                    "style": "font-size: 12px;",
+                                                    "content": ", Dr."
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_4487018210",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " First Vice Pres."
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Abdul Rashid DOSTAM"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_7984659362",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Second Vice Pres."
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Sarwar DANESH"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_1412889871518",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " First Deputy CEO"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Khyal Mohammad KHAN"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_1412889887507",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Second Deputy CEO"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Mohammad MOHAQQEQ"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_11188540805",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Agriculture, Irrigation, & Livestock (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Mohammad Asif RAHIMI"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_16366520202",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Border & Tribal Affairs (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Mohammad Akram KHPALWAK"
+                                                },
+                                                "em": {
+                                                    "style": "font-size: 12px;",
+                                                    "content": ", Dr."
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_24432520263",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Commerce & Industry (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Mohammad Shakir KARGAR"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_36751787320",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Communications (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Amirzai SANGIN"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_41555747090",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Counternarcotics (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Din Mohammad Mubarez RASHEDI"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_78154672759",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Defense (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "BISMULLAH Muhammadi Khan"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_137700380660",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Economy (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Abdul Hadi ARGHANDIWAL"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_143623773039",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Education (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Faruq WARDAK"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_247179568266",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Energy & Water (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Aref NOORZAI"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_418178685182",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Finance (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Omar ZAKHILWAL"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_469116208839",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Foreign Affairs (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Ahmad Zarar MOQBEL Osmani"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_469515394930",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Hajj & Islamic Affairs (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Mohammad Yusuf NIAZI"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_918432877205",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Health (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Suraya DALIL"
+                                                },
+                                                "em": {
+                                                    "style": "font-size: 12px;",
+                                                    "content": ", Dr."
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_1366083099507",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Higher Education (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Obaidullah OBAID"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_2304162293281",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Information & Culture (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Sayed Makhdum RAHIN"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_4509744812793",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Interior (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Mohammad Umer DAUDZAI"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_8499593840765",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Justice (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Said Yusuf HALIM"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_16354630253858",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: bottom; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 0px 0px; background-position: bottom;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right:10px; display: block; vertical-align:bottom;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px;line-height:15px; border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Martyred, Disabled, Labor, & Social Affairs (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "bottom",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": "vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Amena AFZALI"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_26377033540871",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Mines & Petroleum (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Haji Akbar BARAKZAI"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_37548125277884",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Public Works (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Najibullah AOUDJAN"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_57196727358580",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Refugees & Repatriation (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Jamahir ANWARI"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_80450248843744",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Rural Rehabilitation & Development (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Wais BARMACK"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_112079684723521",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Transportation & Civil Aviation (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Daoud Ali NAJAFI"
+                                                },
+                                                "em": {
+                                                    "style": "font-size: 12px;",
+                                                    "content": ", Dr."
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_222842663411886",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Urban Development (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Hassan ABDULHAI"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_409369409475983",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Min. of Women's Affairs (Acting)"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Hasan Bano GHAZANFAR"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_626062933088467",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " National Security Adviser"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Mohammad Hanif ATMAR"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_732722376542967",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Dir. Gen. (Acting), National Directorate of Security"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Rahmatullah NABIL"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_1389099323295581",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Governor, Da Afghanistan Bank"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Noorullah DELAWARI"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_1907857244751232",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Ambassador to the US"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Eklil Ahmad HAKIMI"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "cosid_2846986245929069",
+        "style": "list-style: none;",
+        "table": {
+            "border": "0",
+            "cellpadding": "0",
+            "cellspacing": "0",
+            "width": "100%",
+            "tbody": {
+                "tr": {
+                    "td": {
+                        "align": "left",
+                        "style": "padding-left: 10px;",
+                        "valign": "middle",
+                        "table": {
+                            "border": "0",
+                            "cellpadding": "0",
+                            "cellspacing": "0",
+                            "width": "100%",
+                            "tbody": {
+                                "tr": {
+                                    "style": "page-break-inside: !important;",
+                                    "td": [
+                                        {
+                                            "style": "vertical-align: top; background-image: url(graphics/dotted_line.gif); background-repeat: repeat-x;  padding: 2px 0px; background-position: top;",
+                                            "valign": "top",
+                                            "width": "55%",
+                                            "span": {
+                                                "class": "title",
+                                                "style": "word-wrap: normal; margin-right: 10px; display: block; vertical-align:top;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px;border-bottom: 1px solid white;padding-right: 2px;",
+                                                    "content": " Permanent Representative to the UN, New York"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "align": "left",
+                                            "bgcolor": "#FFFFFF",
+                                            "height": "100%",
+                                            "style": " height: 100%;",
+                                            "valign": "top",
+                                            "width": "45%",
+                                            "span": {
+                                                "class": "cos_name",
+                                                "style": " vertical-align: bottom; margin-bottom: 0px; display: block;",
+                                                "span": {
+                                                    "style": "background-color: #fff; font-size: 12px; line-height:15px",
+                                                    "content": "Zahir TANIN"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+]
