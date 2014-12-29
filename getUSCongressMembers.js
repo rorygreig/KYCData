@@ -11,10 +11,11 @@ console.log(getRepresentativesQuery);
 
 //get members of house of representatives
 new yql.exec(getRepresentativesQuery, function(response) {
-  var representatives = response.query.results.option;
-  representatives.shift();
-  console.log(representatives);
-  console.log(representatives.length);
+  var results = response.query.results.option;
+  results.shift();
+  console.log(results);
+  console.log(results.length);
+  var representatives = formatResults(results, "representative");
   saveToJSON(representatives, './data/USCongressMembers/USRepresentatives.json');
 });
 
