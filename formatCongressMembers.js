@@ -19,7 +19,8 @@ function extractValues(nameStr){
   values = nameStr.split(" ");
   result.party = values.pop();
   console.log(values);
-  result.lastName = values[0];
-  result.firstName = values[1];
+  result.lastName = values.shift();
+  //TODO: use array reduce function to fold firstName array into one String
+  result.firstName = values;
   return result;
 }
