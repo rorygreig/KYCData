@@ -3,14 +3,10 @@ var fs = require('fs');
 var representatives = require('./data/US_CongressMembers/USRepresentatives.json');
 var senators = require('./data/US_CongressMembers/USSenators.json');
 
-// console.log(extractValues(representatives[0].content));
-
 saveToJSON(formatResults(representatives, "representatives"), './data/US_CongressMembers/USRepresentativesFormatted.json');
 saveToJSON(formatResults(senators, "senators"), './data/US_CongressMembers/USSenatorsFormatted.json');
 
-// console.log(representatives);
-// representatives = formatResults(representatives, 'representatives');
-
+console.log(formatResults(representatives, "representatives"));
 
 function formatResults(members, house){
   var results = Array();
@@ -26,17 +22,23 @@ function formatResults(members, house){
 
 function extractValues(nameStr){
   var result = Object();
-  values = nameStr.split(" ");
-  result.party = values.pop();
+  fields = nameStr.split(" ");
+  var values = extractPartyData(fields.pop());
   console.log(values);
-  result.lastName = values.shift().replace(',', ' ').trim();
-  //TODO: use array reduce function to fold firstName array into one String
-  result.firstName = values.reduce(function(accumulator, currentValue, index, array) {
+  console.log(fields);
+  result.party = values[0];
+  result.state = values[1];
+  result.lastName = fields.shift().replace(',', ' ').trim();
+  result.firstName = fields.reduce(function(accumulator, currentValue, index, array) {
     return accumulator + ' ' + currentValue.replace(',', ' ').trim();
   });;
   return result;
 }
 
+function extractPartyData(inputStr){
+  var values = inputStr.replace('[', '').replace(']', '').split('-');
+  return values;
+}
 
 function saveToJSON(targets, fileName){
   fs.writeFile(fileName, JSON.stringify(targets, null, 4), function(err) {
