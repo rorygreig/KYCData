@@ -1,0 +1,2207 @@
+[
+    {
+        "party": "[D-NC-12]",
+        "lastName": "Adams",
+        "firstName": "Alma S."
+    },
+    {
+        "party": "[R-AL-4]",
+        "lastName": "Aderholt",
+        "firstName": "Robert B."
+    },
+    {
+        "party": "[R-MI-3]",
+        "lastName": "Amash",
+        "firstName": "Justin"
+    },
+    {
+        "party": "[R-NV-2]",
+        "lastName": "Amodei",
+        "firstName": "Mark E."
+    },
+    {
+        "party": "[R-MN-6]",
+        "lastName": "Bachmann",
+        "firstName": "Michele"
+    },
+    {
+        "party": "[R-AL-6]",
+        "lastName": "Bachus",
+        "firstName": "Spencer"
+    },
+    {
+        "party": "[D-AZ-2]",
+        "lastName": "Barber",
+        "firstName": "Ron"
+    },
+    {
+        "party": "[R-PA-11]",
+        "lastName": "Barletta",
+        "firstName": "Lou"
+    },
+    {
+        "party": "[R-KY-6]",
+        "lastName": "Barr",
+        "firstName": "Andy"
+    },
+    {
+        "party": "[D-GA-12]",
+        "lastName": "Barrow",
+        "firstName": "John"
+    },
+    {
+        "party": "[R-TX-6]",
+        "lastName": "Barton",
+        "firstName": "Joe"
+    },
+    {
+        "party": "[D-CA-37]",
+        "lastName": "Bass",
+        "firstName": "Karen"
+    },
+    {
+        "party": "[D-OH-3]",
+        "lastName": "Beatty",
+        "firstName": "Joyce"
+    },
+    {
+        "party": "[D-CA-34]",
+        "lastName": "Becerra",
+        "firstName": "Xavier"
+    },
+    {
+        "party": "[R-MI-1]",
+        "lastName": "Benishek",
+        "firstName": "Dan"
+    },
+    {
+        "party": "[R-MI-11]",
+        "lastName": "Bentivolio",
+        "firstName": "Kerry L."
+    },
+    {
+        "party": "[D-CA-7]",
+        "lastName": "Bera",
+        "firstName": "Ami"
+    },
+    {
+        "party": "[R-FL-12]",
+        "lastName": "Bilirakis",
+        "firstName": "Gus M."
+    },
+    {
+        "party": "[R-UT-1]",
+        "lastName": "Bishop",
+        "firstName": "Rob"
+    },
+    {
+        "party": "[D-GA-2]",
+        "lastName": "Bishop",
+        "firstName": "Sanford D. Jr."
+    },
+    {
+        "party": "[D-NY-1]",
+        "lastName": "Bishop",
+        "firstName": "Timothy H."
+    },
+    {
+        "party": "[R-TN-6]",
+        "lastName": "Black",
+        "firstName": "Diane"
+    },
+    {
+        "party": "[R-TN-7]",
+        "lastName": "Blackburn",
+        "firstName": "Marsha"
+    },
+    {
+        "party": "[D-OR-3]",
+        "lastName": "Blumenauer",
+        "firstName": "Earl"
+    },
+    {
+        "party": "[R-OH-8]",
+        "lastName": "Boehner",
+        "firstName": "John A."
+    },
+    {
+        "party": "[D-OR-1]",
+        "lastName": "Bonamici",
+        "firstName": "Suzanne"
+    },
+    {
+        "party": "[D-GU]",
+        "lastName": "Bordallo",
+        "firstName": "Madeleine Z."
+    },
+    {
+        "party": "[R-LA-3]",
+        "lastName": "Boustany",
+        "firstName": "Charles W. Jr."
+    },
+    {
+        "party": "[R-TX-8]",
+        "lastName": "Brady",
+        "firstName": "Kevin"
+    },
+    {
+        "party": "[D-PA-1]",
+        "lastName": "Brady",
+        "firstName": "Robert A."
+    },
+    {
+        "party": "[D-IA-1]",
+        "lastName": "Braley",
+        "firstName": "Bruce L."
+    },
+    {
+        "party": "[R-VA-7]",
+        "lastName": "Brat",
+        "firstName": "Dave"
+    },
+    {
+        "party": "[R-OK-1]",
+        "lastName": "Bridenstine",
+        "firstName": "Jim"
+    },
+    {
+        "party": "[R-AL-5]",
+        "lastName": "Brooks",
+        "firstName": "Mo"
+    },
+    {
+        "party": "[R-IN-5]",
+        "lastName": "Brooks",
+        "firstName": "Susan W."
+    },
+    {
+        "party": "[R-GA-10]",
+        "lastName": "Broun",
+        "firstName": "Paul C."
+    },
+    {
+        "party": "[D-FL-5]",
+        "lastName": "Brown",
+        "firstName": "Corrine"
+    },
+    {
+        "party": "[D-CA-26]",
+        "lastName": "Brownley",
+        "firstName": "Julia"
+    },
+    {
+        "party": "[R-FL-16]",
+        "lastName": "Buchanan",
+        "firstName": "Vern"
+    },
+    {
+        "party": "[R-IN-8]",
+        "lastName": "Bucshon",
+        "firstName": "Larry"
+    },
+    {
+        "party": "[R-TX-26]",
+        "lastName": "Burgess",
+        "firstName": "Michael C."
+    },
+    {
+        "party": "[D-IL-17]",
+        "lastName": "Bustos",
+        "firstName": "Cheri"
+    },
+    {
+        "party": "[D-NC-1]",
+        "lastName": "Butterfield",
+        "firstName": "G. K."
+    },
+    {
+        "party": "[R-AL-1]",
+        "lastName": "Byrne",
+        "firstName": "Bradley"
+    },
+    {
+        "party": "[R-CA-42]",
+        "lastName": "Calvert",
+        "firstName": "Ken"
+    },
+    {
+        "party": "[R-MI-4]",
+        "lastName": "Camp",
+        "firstName": "Dave"
+    },
+    {
+        "party": "[R-CA-45]",
+        "lastName": "Campbell",
+        "firstName": "John"
+    },
+    {
+        "party": "[R-WV-2]",
+        "lastName": "Capito",
+        "firstName": "Shelley Moore"
+    },
+    {
+        "party": "[D-CA-24]",
+        "lastName": "Capps",
+        "firstName": "Lois"
+    },
+    {
+        "party": "[D-MA-7]",
+        "lastName": "Capuano",
+        "firstName": "Michael E."
+    },
+    {
+        "party": "[D-CA-29]",
+        "lastName": "Cardenas",
+        "firstName": "Tony"
+    },
+    {
+        "party": "[D-DE]",
+        "lastName": "Carney",
+        "firstName": "John C. Jr."
+    },
+    {
+        "party": "[D-IN-7]",
+        "lastName": "Carson",
+        "firstName": "Andre"
+    },
+    {
+        "party": "[R-TX-31]",
+        "lastName": "Carter",
+        "firstName": "John R."
+    },
+    {
+        "party": "[D-PA-17]",
+        "lastName": "Cartwright",
+        "firstName": "Matt"
+    },
+    {
+        "party": "[R-LA-6]",
+        "lastName": "Cassidy",
+        "firstName": "Bill"
+    },
+    {
+        "party": "[D-FL-14]",
+        "lastName": "Castor",
+        "firstName": "Kathy"
+    },
+    {
+        "party": "[D-TX-20]",
+        "lastName": "Castro",
+        "firstName": "Joaquin"
+    },
+    {
+        "party": "[R-OH-1]",
+        "lastName": "Chabot",
+        "firstName": "Steve"
+    },
+    {
+        "party": "[R-UT-3]",
+        "lastName": "Chaffetz",
+        "firstName": "Jason"
+    },
+    {
+        "party": "[D-VI]",
+        "lastName": "Christensen",
+        "firstName": "Donna M."
+    },
+    {
+        "party": "[D-CA-27]",
+        "lastName": "Chu",
+        "firstName": "Judy"
+    },
+    {
+        "party": "[D-RI-1]",
+        "lastName": "Cicilline",
+        "firstName": "David N."
+    },
+    {
+        "party": "[D-MA-5]",
+        "lastName": "Clark",
+        "firstName": "Katherine M."
+    },
+    {
+        "party": "[D-NY-9]",
+        "lastName": "Clarke",
+        "firstName": "Yvette D."
+    },
+    {
+        "party": "[R-FL-19]",
+        "lastName": "Clawson",
+        "firstName": "Curt"
+    },
+    {
+        "party": "[D-MO-1]",
+        "lastName": "Clay",
+        "firstName": "Wm. Lacy"
+    },
+    {
+        "party": "[D-MO-5]",
+        "lastName": "Cleaver",
+        "firstName": "Emanuel"
+    },
+    {
+        "party": "[D-SC-6]",
+        "lastName": "Clyburn",
+        "firstName": "James E."
+    },
+    {
+        "party": "[R-NC-6]",
+        "lastName": "Coble",
+        "firstName": "Howard"
+    },
+    {
+        "party": "[R-CO-6]",
+        "lastName": "Coffman",
+        "firstName": "Mike"
+    },
+    {
+        "party": "[D-TN-9]",
+        "lastName": "Cohen",
+        "firstName": "Steve"
+    },
+    {
+        "party": "[R-OK-4]",
+        "lastName": "Cole",
+        "firstName": "Tom"
+    },
+    {
+        "party": "[R-NY-27]",
+        "lastName": "Collins",
+        "firstName": "Chris"
+    },
+    {
+        "party": "[R-GA-9]",
+        "lastName": "Collins",
+        "firstName": "Doug"
+    },
+    {
+        "party": "[R-TX-11]",
+        "lastName": "Conaway",
+        "firstName": "K. Michael"
+    },
+    {
+        "party": "[D-VA-11]",
+        "lastName": "Connolly",
+        "firstName": "Gerald E."
+    },
+    {
+        "party": "[D-MI-13]",
+        "lastName": "Conyers",
+        "firstName": "John, Jr."
+    },
+    {
+        "party": "[R-CA-8]",
+        "lastName": "Cook",
+        "firstName": "Paul"
+    },
+    {
+        "party": "[D-TN-5]",
+        "lastName": "Cooper",
+        "firstName": "Jim"
+    },
+    {
+        "party": "[D-CA-16]",
+        "lastName": "Costa",
+        "firstName": "Jim"
+    },
+    {
+        "party": "[R-AR-4]",
+        "lastName": "Cotton",
+        "firstName": "Tom"
+    },
+    {
+        "party": "[D-CT-2]",
+        "lastName": "Courtney",
+        "firstName": "Joe"
+    },
+    {
+        "party": "[R-ND]",
+        "lastName": "Cramer",
+        "firstName": "Kevin"
+    },
+    {
+        "party": "[R-AR-1]",
+        "lastName": "Crawford",
+        "firstName": "Eric A. \"Rick\""
+    },
+    {
+        "party": "[R-FL-4]",
+        "lastName": "Crenshaw",
+        "firstName": "Ander"
+    },
+    {
+        "party": "[D-NY-14]",
+        "lastName": "Crowley",
+        "firstName": "Joseph"
+    },
+    {
+        "party": "[D-TX-28]",
+        "lastName": "Cuellar",
+        "firstName": "Henry"
+    },
+    {
+        "party": "[R-TX-7]",
+        "lastName": "Culberson",
+        "firstName": "John Abney"
+    },
+    {
+        "party": "[D-MD-7]",
+        "lastName": "Cummings",
+        "firstName": "Elijah E."
+    },
+    {
+        "party": "[R-MT]",
+        "lastName": "Daines",
+        "firstName": "Steve"
+    },
+    {
+        "party": "[D-IL-7]",
+        "lastName": "Davis",
+        "firstName": "Danny K."
+    },
+    {
+        "party": "[R-IL-13]",
+        "lastName": "Davis",
+        "firstName": "Rodney"
+    },
+    {
+        "party": "[D-CA-53]",
+        "lastName": "Davis",
+        "firstName": "Susan A."
+    },
+    {
+        "party": "[D-OR-4]",
+        "lastName": "DeFazio",
+        "firstName": "Peter A."
+    },
+    {
+        "party": "[D-CO-1]",
+        "lastName": "DeGette",
+        "firstName": "Diana"
+    },
+    {
+        "party": "[D-CT-3]",
+        "lastName": "DeLauro",
+        "firstName": "Rosa L."
+    },
+    {
+        "party": "[R-FL-6]",
+        "lastName": "DeSantis",
+        "firstName": "Ron"
+    },
+    {
+        "party": "[D-WA-1]",
+        "lastName": "DelBene",
+        "firstName": "Suzan K."
+    },
+    {
+        "party": "[D-MD-6]",
+        "lastName": "Delaney",
+        "firstName": "John K."
+    },
+    {
+        "party": "[R-CA-10]",
+        "lastName": "Denham",
+        "firstName": "Jeff"
+    },
+    {
+        "party": "[R-PA-15]",
+        "lastName": "Dent",
+        "firstName": "Charles W."
+    },
+    {
+        "party": "[R-TN-4]",
+        "lastName": "DesJarlais",
+        "firstName": "Scott"
+    },
+    {
+        "party": "[D-FL-21]",
+        "lastName": "Deutch",
+        "firstName": "Theodore E."
+    },
+    {
+        "party": "[R-FL-25]",
+        "lastName": "Diaz-Balart",
+        "firstName": "Mario"
+    },
+    {
+        "party": "[D-MI-12]",
+        "lastName": "Dingell",
+        "firstName": "John D."
+    },
+    {
+        "party": "[D-TX-35]",
+        "lastName": "Doggett",
+        "firstName": "Lloyd"
+    },
+    {
+        "party": "[D-PA-14]",
+        "lastName": "Doyle",
+        "firstName": "Michael F."
+    },
+    {
+        "party": "[D-IL-8]",
+        "lastName": "Duckworth",
+        "firstName": "Tammy"
+    },
+    {
+        "party": "[R-WI-7]",
+        "lastName": "Duffy",
+        "firstName": "Sean P."
+    },
+    {
+        "party": "[R-SC-3]",
+        "lastName": "Duncan",
+        "firstName": "Jeff"
+    },
+    {
+        "party": "[R-TN-2]",
+        "lastName": "Duncan",
+        "firstName": "John J. Jr."
+    },
+    {
+        "party": "[D-MD-4]",
+        "lastName": "Edwards",
+        "firstName": "Donna F."
+    },
+    {
+        "party": "[D-MN-5]",
+        "lastName": "Ellison",
+        "firstName": "Keith"
+    },
+    {
+        "party": "[R-NC-2]",
+        "lastName": "Ellmers",
+        "firstName": "Renee L."
+    },
+    {
+        "party": "[D-NY-16]",
+        "lastName": "Engel",
+        "firstName": "Eliot L."
+    },
+    {
+        "party": "[D-IL-12]",
+        "lastName": "Enyart",
+        "firstName": "William L."
+    },
+    {
+        "party": "[D-CA-18]",
+        "lastName": "Eshoo",
+        "firstName": "Anna G."
+    },
+    {
+        "party": "[D-CT-5]",
+        "lastName": "Esty",
+        "firstName": "Elizabeth H."
+    },
+    {
+        "party": "[D-AS]",
+        "lastName": "Faleomavaega",
+        "firstName": "Eni F. H."
+    },
+    {
+        "party": "[R-TX-27]",
+        "lastName": "Farenthold",
+        "firstName": "Blake"
+    },
+    {
+        "party": "[D-CA-20]",
+        "lastName": "Farr",
+        "firstName": "Sam"
+    },
+    {
+        "party": "[D-PA-2]",
+        "lastName": "Fattah",
+        "firstName": "Chaka"
+    },
+    {
+        "party": "[R-TN-8]",
+        "lastName": "Fincher",
+        "firstName": "Stephen Lee"
+    },
+    {
+        "party": "[R-PA-8]",
+        "lastName": "Fitzpatrick",
+        "firstName": "Michael G."
+    },
+    {
+        "party": "[R-TN-3]",
+        "lastName": "Fleischmann",
+        "firstName": "Charles J. \"Chuck\""
+    },
+    {
+        "party": "[R-LA-4]",
+        "lastName": "Fleming",
+        "firstName": "John"
+    },
+    {
+        "party": "[R-TX-17]",
+        "lastName": "Flores",
+        "firstName": "Bill"
+    },
+    {
+        "party": "[R-VA-4]",
+        "lastName": "Forbes",
+        "firstName": "J. Randy"
+    },
+    {
+        "party": "[R-NE-1]",
+        "lastName": "Fortenberry",
+        "firstName": "Jeff"
+    },
+    {
+        "party": "[D-IL-11]",
+        "lastName": "Foster",
+        "firstName": "Bill"
+    },
+    {
+        "party": "[R-NC-5]",
+        "lastName": "Foxx",
+        "firstName": "Virginia"
+    },
+    {
+        "party": "[D-FL-22]",
+        "lastName": "Frankel",
+        "firstName": "Lois"
+    },
+    {
+        "party": "[R-AZ-8]",
+        "lastName": "Franks",
+        "firstName": "Trent"
+    },
+    {
+        "party": "[R-NJ-11]",
+        "lastName": "Frelinghuysen",
+        "firstName": "Rodney P."
+    },
+    {
+        "party": "[D-OH-11]",
+        "lastName": "Fudge",
+        "firstName": "Marcia L."
+    },
+    {
+        "party": "[D-HI-2]",
+        "lastName": "Gabbard",
+        "firstName": "Tulsi"
+    },
+    {
+        "party": "[D-TX-23]",
+        "lastName": "Gallego",
+        "firstName": "Pete P."
+    },
+    {
+        "party": "[D-CA-3]",
+        "lastName": "Garamendi",
+        "firstName": "John"
+    },
+    {
+        "party": "[D-FL-26]",
+        "lastName": "Garcia",
+        "firstName": "Joe"
+    },
+    {
+        "party": "[R-CO-4]",
+        "lastName": "Gardner",
+        "firstName": "Cory"
+    },
+    {
+        "party": "[R-NJ-5]",
+        "lastName": "Garrett",
+        "firstName": "Scott"
+    },
+    {
+        "party": "[R-PA-6]",
+        "lastName": "Gerlach",
+        "firstName": "Jim"
+    },
+    {
+        "party": "[R-OH-7]",
+        "lastName": "Gibbs",
+        "firstName": "Bob"
+    },
+    {
+        "party": "[R-NY-19]",
+        "lastName": "Gibson",
+        "firstName": "Christopher P."
+    },
+    {
+        "party": "[R-GA-11]",
+        "lastName": "Gingrey",
+        "firstName": "Phil"
+    },
+    {
+        "party": "[R-TX-1]",
+        "lastName": "Gohmert",
+        "firstName": "Louie"
+    },
+    {
+        "party": "[R-VA-6]",
+        "lastName": "Goodlatte",
+        "firstName": "Bob"
+    },
+    {
+        "party": "[R-AZ-4]",
+        "lastName": "Gosar",
+        "firstName": "Paul A."
+    },
+    {
+        "party": "[R-SC-4]",
+        "lastName": "Gowdy",
+        "firstName": "Trey"
+    },
+    {
+        "party": "[R-TX-12]",
+        "lastName": "Granger",
+        "firstName": "Kay"
+    },
+    {
+        "party": "[R-MO-6]",
+        "lastName": "Graves",
+        "firstName": "Sam"
+    },
+    {
+        "party": "[R-GA-14]",
+        "lastName": "Graves",
+        "firstName": "Tom"
+    },
+    {
+        "party": "[D-FL-9]",
+        "lastName": "Grayson",
+        "firstName": "Alan"
+    },
+    {
+        "party": "[D-TX-9]",
+        "lastName": "Green",
+        "firstName": "Al"
+    },
+    {
+        "party": "[D-TX-29]",
+        "lastName": "Green",
+        "firstName": "Gene"
+    },
+    {
+        "party": "[R-AR-2]",
+        "lastName": "Griffin",
+        "firstName": "Tim"
+    },
+    {
+        "party": "[R-VA-9]",
+        "lastName": "Griffith",
+        "firstName": "H. Morgan"
+    },
+    {
+        "party": "[D-AZ-3]",
+        "lastName": "Grijalva",
+        "firstName": "Raul M."
+    },
+    {
+        "party": "[R-NY-11]",
+        "lastName": "Grimm",
+        "firstName": "Michael G."
+    },
+    {
+        "party": "[R-KY-2]",
+        "lastName": "Guthrie",
+        "firstName": "Brett"
+    },
+    {
+        "party": "[D-IL-4]",
+        "lastName": "Gutierrez",
+        "firstName": "Luis V."
+    },
+    {
+        "party": "[D-CA-44]",
+        "lastName": "Hahn",
+        "firstName": "Janice"
+    },
+    {
+        "party": "[R-TX-4]",
+        "lastName": "Hall",
+        "firstName": "Ralph M."
+    },
+    {
+        "party": "[D-HI-1]",
+        "lastName": "Hanabusa",
+        "firstName": "Colleen W."
+    },
+    {
+        "party": "[R-NY-22]",
+        "lastName": "Hanna",
+        "firstName": "Richard L."
+    },
+    {
+        "party": "[R-MS-3]",
+        "lastName": "Harper",
+        "firstName": "Gregg"
+    },
+    {
+        "party": "[R-MD-1]",
+        "lastName": "Harris",
+        "firstName": "Andy"
+    },
+    {
+        "party": "[R-MO-4]",
+        "lastName": "Hartzler",
+        "firstName": "Vicky"
+    },
+    {
+        "party": "[D-FL-20]",
+        "lastName": "Hastings",
+        "firstName": "Alcee L."
+    },
+    {
+        "party": "[R-WA-4]",
+        "lastName": "Hastings",
+        "firstName": "Doc"
+    },
+    {
+        "party": "[D-WA-10]",
+        "lastName": "Heck",
+        "firstName": "Denny"
+    },
+    {
+        "party": "[R-NV-3]",
+        "lastName": "Heck",
+        "firstName": "Joseph J."
+    },
+    {
+        "party": "[R-TX-5]",
+        "lastName": "Hensarling",
+        "firstName": "Jeb"
+    },
+    {
+        "party": "[R-WA-3]",
+        "lastName": "Herrera",
+        "firstName": "Beutler, Jaime"
+    },
+    {
+        "party": "[D-NY-26]",
+        "lastName": "Higgins",
+        "firstName": "Brian"
+    },
+    {
+        "party": "[D-CT-4]",
+        "lastName": "Himes",
+        "firstName": "James A."
+    },
+    {
+        "party": "[D-TX-15]",
+        "lastName": "Hinojosa",
+        "firstName": "Ruben"
+    },
+    {
+        "party": "[R-NC-13]",
+        "lastName": "Holding",
+        "firstName": "George"
+    },
+    {
+        "party": "[D-NJ-12]",
+        "lastName": "Holt",
+        "firstName": "Rush"
+    },
+    {
+        "party": "[D-CA-17]",
+        "lastName": "Honda",
+        "firstName": "Michael M."
+    },
+    {
+        "party": "[D-NV-4]",
+        "lastName": "Horsford",
+        "firstName": "Steven A."
+    },
+    {
+        "party": "[D-MD-5]",
+        "lastName": "Hoyer",
+        "firstName": "Steny H."
+    },
+    {
+        "party": "[R-NC-8]",
+        "lastName": "Hudson",
+        "firstName": "Richard"
+    },
+    {
+        "party": "[R-KS-1]",
+        "lastName": "Huelskamp",
+        "firstName": "Tim"
+    },
+    {
+        "party": "[D-CA-2]",
+        "lastName": "Huffman",
+        "firstName": "Jared"
+    },
+    {
+        "party": "[R-MI-2]",
+        "lastName": "Huizenga",
+        "firstName": "Bill"
+    },
+    {
+        "party": "[R-IL-14]",
+        "lastName": "Hultgren",
+        "firstName": "Randy"
+    },
+    {
+        "party": "[R-CA-50]",
+        "lastName": "Hunter",
+        "firstName": "Duncan D."
+    },
+    {
+        "party": "[R-VA-5]",
+        "lastName": "Hurt",
+        "firstName": "Robert"
+    },
+    {
+        "party": "[D-NY-3]",
+        "lastName": "Israel",
+        "firstName": "Steve"
+    },
+    {
+        "party": "[R-CA-49]",
+        "lastName": "Issa",
+        "firstName": "Darrell E."
+    },
+    {
+        "party": "[D-TX-18]",
+        "lastName": "Jackson",
+        "firstName": "Lee, Sheila"
+    },
+    {
+        "party": "[D-NY-8]",
+        "lastName": "Jeffries",
+        "firstName": "Hakeem S."
+    },
+    {
+        "party": "[R-KS-2]",
+        "lastName": "Jenkins",
+        "firstName": "Lynn"
+    },
+    {
+        "party": "[R-OH-6]",
+        "lastName": "Johnson",
+        "firstName": "Bill"
+    },
+    {
+        "party": "[D-TX-30]",
+        "lastName": "Johnson",
+        "firstName": "Eddie Bernice"
+    },
+    {
+        "party": "[D-GA-4]",
+        "lastName": "Johnson",
+        "firstName": "Henry C. \"Hank \" Jr."
+    },
+    {
+        "party": "[R-TX-3]",
+        "lastName": "Johnson",
+        "firstName": "Sam"
+    },
+    {
+        "party": "[R-FL-13]",
+        "lastName": "Jolly",
+        "firstName": "David"
+    },
+    {
+        "party": "[R-NC-3]",
+        "lastName": "Jones",
+        "firstName": "Walter B. Jr."
+    },
+    {
+        "party": "[R-OH-4]",
+        "lastName": "Jordan",
+        "firstName": "Jim"
+    },
+    {
+        "party": "[R-OH-14]",
+        "lastName": "Joyce",
+        "firstName": "David P."
+    },
+    {
+        "party": "[D-OH-9]",
+        "lastName": "Kaptur",
+        "firstName": "Marcy"
+    },
+    {
+        "party": "[D-MA-9]",
+        "lastName": "Keating",
+        "firstName": "William R."
+    },
+    {
+        "party": "[R-PA-3]",
+        "lastName": "Kelly",
+        "firstName": "Mike"
+    },
+    {
+        "party": "[D-IL-2]",
+        "lastName": "Kelly",
+        "firstName": "Robin L."
+    },
+    {
+        "party": "[D-MA-4]",
+        "lastName": "Kennedy",
+        "firstName": "Joseph P. III"
+    },
+    {
+        "party": "[D-MI-5]",
+        "lastName": "Kildee",
+        "firstName": "Daniel T"
+    },
+    {
+        "party": "[D-WA-6]",
+        "lastName": "Kilmer",
+        "firstName": "Derek"
+    },
+    {
+        "party": "[D-WI-3]",
+        "lastName": "Kind",
+        "firstName": "Ron"
+    },
+    {
+        "party": "[R-NY-2]",
+        "lastName": "King",
+        "firstName": "Peter T."
+    },
+    {
+        "party": "[R-IA-4]",
+        "lastName": "King",
+        "firstName": "Steve"
+    },
+    {
+        "party": "[R-GA-1]",
+        "lastName": "Kingston",
+        "firstName": "Jack"
+    },
+    {
+        "party": "[R-IL-16]",
+        "lastName": "Kinzinger",
+        "firstName": "Adam"
+    },
+    {
+        "party": "[D-AZ-1]",
+        "lastName": "Kirkpatrick",
+        "firstName": "Ann"
+    },
+    {
+        "party": "[R-MN-2]",
+        "lastName": "Kline",
+        "firstName": "John"
+    },
+    {
+        "party": "[D-NH-2]",
+        "lastName": "Kuster",
+        "firstName": "Ann M."
+    },
+    {
+        "party": "[R-CA-1]",
+        "lastName": "LaMalfa",
+        "firstName": "Doug"
+    },
+    {
+        "party": "[R-ID-1]",
+        "lastName": "Labrador",
+        "firstName": "Raul R."
+    },
+    {
+        "party": "[R-CO-5]",
+        "lastName": "Lamborn",
+        "firstName": "Doug"
+    },
+    {
+        "party": "[R-NJ-7]",
+        "lastName": "Lance",
+        "firstName": "Leonard"
+    },
+    {
+        "party": "[D-RI-2]",
+        "lastName": "Langevin",
+        "firstName": "James R."
+    },
+    {
+        "party": "[R-OK-5]",
+        "lastName": "Lankford",
+        "firstName": "James"
+    },
+    {
+        "party": "[D-WA-2]",
+        "lastName": "Larsen",
+        "firstName": "Rick"
+    },
+    {
+        "party": "[D-CT-1]",
+        "lastName": "Larson",
+        "firstName": "John B."
+    },
+    {
+        "party": "[R-IA-3]",
+        "lastName": "Latham",
+        "firstName": "Tom"
+    },
+    {
+        "party": "[R-OH-5]",
+        "lastName": "Latta",
+        "firstName": "Robert E."
+    },
+    {
+        "party": "[D-CA-13]",
+        "lastName": "Lee",
+        "firstName": "Barbara"
+    },
+    {
+        "party": "[D-MI-9]",
+        "lastName": "Levin",
+        "firstName": "Sander M."
+    },
+    {
+        "party": "[D-GA-5]",
+        "lastName": "Lewis",
+        "firstName": "John"
+    },
+    {
+        "party": "[D-IL-3]",
+        "lastName": "Lipinski",
+        "firstName": "Daniel"
+    },
+    {
+        "party": "[R-NJ-2]",
+        "lastName": "LoBiondo",
+        "firstName": "Frank A."
+    },
+    {
+        "party": "[D-IA-2]",
+        "lastName": "Loebsack",
+        "firstName": "David"
+    },
+    {
+        "party": "[D-CA-19]",
+        "lastName": "Lofgren",
+        "firstName": "Zoe"
+    },
+    {
+        "party": "[R-MO-7]",
+        "lastName": "Long",
+        "firstName": "Billy"
+    },
+    {
+        "party": "[D-CA-47]",
+        "lastName": "Lowenthal",
+        "firstName": "Alan S."
+    },
+    {
+        "party": "[D-NY-17]",
+        "lastName": "Lowey",
+        "firstName": "Nita M."
+    },
+    {
+        "party": "[R-OK-3]",
+        "lastName": "Lucas",
+        "firstName": "Frank D."
+    },
+    {
+        "party": "[R-MO-3]",
+        "lastName": "Luetkemeyer",
+        "firstName": "Blaine"
+    },
+    {
+        "party": "[D-NM-1]",
+        "lastName": "Lujan",
+        "firstName": "Grisham, Michelle"
+    },
+    {
+        "party": "[D-NM-3]",
+        "lastName": "Lujan",
+        "firstName": "Ben Ray"
+    },
+    {
+        "party": "[R-WY]",
+        "lastName": "Lummis",
+        "firstName": "Cynthia M."
+    },
+    {
+        "party": "[D-MA-8]",
+        "lastName": "Lynch",
+        "firstName": "Stephen F."
+    },
+    {
+        "party": "[D-NY-24]",
+        "lastName": "Maffei",
+        "firstName": "Daniel B."
+    },
+    {
+        "party": "[D-NY-12]",
+        "lastName": "Maloney",
+        "firstName": "Carolyn B."
+    },
+    {
+        "party": "[D-NY-18]",
+        "lastName": "Maloney",
+        "firstName": "Sean Patrick"
+    },
+    {
+        "party": "[R-TX-24]",
+        "lastName": "Marchant",
+        "firstName": "Kenny"
+    },
+    {
+        "party": "[R-PA-10]",
+        "lastName": "Marino",
+        "firstName": "Tom"
+    },
+    {
+        "party": "[R-KY-4]",
+        "lastName": "Massie",
+        "firstName": "Thomas"
+    },
+    {
+        "party": "[D-UT-4]",
+        "lastName": "Matheson",
+        "firstName": "Jim"
+    },
+    {
+        "party": "[D-CA-6]",
+        "lastName": "Matsui",
+        "firstName": "Doris O."
+    },
+    {
+        "party": "[R-LA-5]",
+        "lastName": "McAllister",
+        "firstName": "Vance M."
+    },
+    {
+        "party": "[D-NY-4]",
+        "lastName": "McCarthy",
+        "firstName": "Carolyn"
+    },
+    {
+        "party": "[R-CA-23]",
+        "lastName": "McCarthy",
+        "firstName": "Kevin"
+    },
+    {
+        "party": "[R-TX-10]",
+        "lastName": "McCaul",
+        "firstName": "Michael T."
+    },
+    {
+        "party": "[R-CA-4]",
+        "lastName": "McClintock",
+        "firstName": "Tom"
+    },
+    {
+        "party": "[D-MN-4]",
+        "lastName": "McCollum",
+        "firstName": "Betty"
+    },
+    {
+        "party": "[D-WA-7]",
+        "lastName": "McDermott",
+        "firstName": "Jim"
+    },
+    {
+        "party": "[D-MA-2]",
+        "lastName": "McGovern",
+        "firstName": "James P."
+    },
+    {
+        "party": "[R-NC-10]",
+        "lastName": "McHenry",
+        "firstName": "Patrick T."
+    },
+    {
+        "party": "[D-NC-7]",
+        "lastName": "McIntyre",
+        "firstName": "Mike"
+    },
+    {
+        "party": "[R-CA-25]",
+        "lastName": "McKeon",
+        "firstName": "Howard P. \"Buck\""
+    },
+    {
+        "party": "[R-WV-1]",
+        "lastName": "McKinley",
+        "firstName": "David B."
+    },
+    {
+        "party": "[R-WA-5]",
+        "lastName": "McMorris",
+        "firstName": "Rodgers, Cathy"
+    },
+    {
+        "party": "[D-CA-9]",
+        "lastName": "McNerney",
+        "firstName": "Jerry"
+    },
+    {
+        "party": "[R-NC-11]",
+        "lastName": "Meadows",
+        "firstName": "Mark"
+    },
+    {
+        "party": "[R-PA-7]",
+        "lastName": "Meehan",
+        "firstName": "Patrick"
+    },
+    {
+        "party": "[D-NY-5]",
+        "lastName": "Meeks",
+        "firstName": "Gregory W."
+    },
+    {
+        "party": "[D-NY-6]",
+        "lastName": "Meng",
+        "firstName": "Grace"
+    },
+    {
+        "party": "[R-IN-6]",
+        "lastName": "Messer",
+        "firstName": "Luke"
+    },
+    {
+        "party": "[R-FL-7]",
+        "lastName": "Mica",
+        "firstName": "John L."
+    },
+    {
+        "party": "[D-ME-2]",
+        "lastName": "Michaud",
+        "firstName": "Michael H."
+    },
+    {
+        "party": "[R-MI-10]",
+        "lastName": "Miller",
+        "firstName": "Candice S."
+    },
+    {
+        "party": "[R-CA-31]",
+        "lastName": "Miller",
+        "firstName": "Gary G."
+    },
+    {
+        "party": "[D-CA-11]",
+        "lastName": "Miller",
+        "firstName": "George"
+    },
+    {
+        "party": "[R-FL-1]",
+        "lastName": "Miller",
+        "firstName": "Jeff"
+    },
+    {
+        "party": "[D-WI-4]",
+        "lastName": "Moore",
+        "firstName": "Gwen"
+    },
+    {
+        "party": "[D-VA-8]",
+        "lastName": "Moran",
+        "firstName": "James P."
+    },
+    {
+        "party": "[R-OK-2]",
+        "lastName": "Mullin",
+        "firstName": "Markwayne"
+    },
+    {
+        "party": "[R-SC-5]",
+        "lastName": "Mulvaney",
+        "firstName": "Mick"
+    },
+    {
+        "party": "[D-FL-18]",
+        "lastName": "Murphy",
+        "firstName": "Patrick"
+    },
+    {
+        "party": "[R-PA-18]",
+        "lastName": "Murphy",
+        "firstName": "Tim"
+    },
+    {
+        "party": "[D-NY-10]",
+        "lastName": "Nadler",
+        "firstName": "Jerrold"
+    },
+    {
+        "party": "[D-CA-32]",
+        "lastName": "Napolitano",
+        "firstName": "Grace F."
+    },
+    {
+        "party": "[D-MA-1]",
+        "lastName": "Neal",
+        "firstName": "Richard E."
+    },
+    {
+        "party": "[D-CA-35]",
+        "lastName": "Negrete",
+        "firstName": "McLeod, Gloria"
+    },
+    {
+        "party": "[R-TX-19]",
+        "lastName": "Neugebauer",
+        "firstName": "Randy"
+    },
+    {
+        "party": "[R-SD]",
+        "lastName": "Noem",
+        "firstName": "Kristi L."
+    },
+    {
+        "party": "[D-MN-8]",
+        "lastName": "Nolan",
+        "firstName": "Richard M."
+    },
+    {
+        "party": "[D-NJ-1]",
+        "lastName": "Norcross",
+        "firstName": "Donald W."
+    },
+    {
+        "party": "[D-DC]",
+        "lastName": "Norton",
+        "firstName": "Eleanor Holmes"
+    },
+    {
+        "party": "[R-FL-11]",
+        "lastName": "Nugent",
+        "firstName": "Richard B."
+    },
+    {
+        "party": "[R-CA-22]",
+        "lastName": "Nunes",
+        "firstName": "Devin"
+    },
+    {
+        "party": "[R-MS-1]",
+        "lastName": "Nunnelee",
+        "firstName": "Alan"
+    },
+    {
+        "party": "[D-TX-16]",
+        "lastName": "O'Rourke",
+        "firstName": "Beto"
+    },
+    {
+        "party": "[R-TX-22]",
+        "lastName": "Olson",
+        "firstName": "Pete"
+    },
+    {
+        "party": "[D-NY-21]",
+        "lastName": "Owens",
+        "firstName": "William L."
+    },
+    {
+        "party": "[R-MS-4]",
+        "lastName": "Palazzo",
+        "firstName": "Steven M."
+    },
+    {
+        "party": "[D-NJ-6]",
+        "lastName": "Pallone",
+        "firstName": "Frank, Jr."
+    },
+    {
+        "party": "[D-NJ-9]",
+        "lastName": "Pascrell",
+        "firstName": "Bill, Jr."
+    },
+    {
+        "party": "[D-AZ-7]",
+        "lastName": "Pastor",
+        "firstName": "Ed"
+    },
+    {
+        "party": "[R-MN-3]",
+        "lastName": "Paulsen",
+        "firstName": "Erik"
+    },
+    {
+        "party": "[D-NJ-10]",
+        "lastName": "Payne",
+        "firstName": "Donald M. Jr."
+    },
+    {
+        "party": "[R-NM-2]",
+        "lastName": "Pearce",
+        "firstName": "Stevan"
+    },
+    {
+        "party": "[D-CA-12]",
+        "lastName": "Pelosi",
+        "firstName": "Nancy"
+    },
+    {
+        "party": "[D-CO-7]",
+        "lastName": "Perlmutter",
+        "firstName": "Ed"
+    },
+    {
+        "party": "[R-PA-4]",
+        "lastName": "Perry",
+        "firstName": "Scott"
+    },
+    {
+        "party": "[D-MI-14]",
+        "lastName": "Peters",
+        "firstName": "Gary C."
+    },
+    {
+        "party": "[D-CA-52]",
+        "lastName": "Peters",
+        "firstName": "Scott H."
+    },
+    {
+        "party": "[D-MN-7]",
+        "lastName": "Peterson",
+        "firstName": "Collin C."
+    },
+    {
+        "party": "[R-WI-6]",
+        "lastName": "Petri",
+        "firstName": "Thomas E."
+    },
+    {
+        "party": "[D-PR]",
+        "lastName": "Pierluisi",
+        "firstName": "Pedro R."
+    },
+    {
+        "party": "[D-ME-1]",
+        "lastName": "Pingree",
+        "firstName": "Chellie"
+    },
+    {
+        "party": "[R-NC-9]",
+        "lastName": "Pittenger",
+        "firstName": "Robert"
+    },
+    {
+        "party": "[R-PA-16]",
+        "lastName": "Pitts",
+        "firstName": "Joseph R."
+    },
+    {
+        "party": "[D-WI-2]",
+        "lastName": "Pocan",
+        "firstName": "Mark"
+    },
+    {
+        "party": "[R-TX-2]",
+        "lastName": "Poe",
+        "firstName": "Ted"
+    },
+    {
+        "party": "[D-CO-2]",
+        "lastName": "Polis",
+        "firstName": "Jared"
+    },
+    {
+        "party": "[R-KS-4]",
+        "lastName": "Pompeo",
+        "firstName": "Mike"
+    },
+    {
+        "party": "[R-FL-8]",
+        "lastName": "Posey",
+        "firstName": "Bill"
+    },
+    {
+        "party": "[D-NC-4]",
+        "lastName": "Price",
+        "firstName": "David E."
+    },
+    {
+        "party": "[R-GA-6]",
+        "lastName": "Price",
+        "firstName": "Tom"
+    },
+    {
+        "party": "[D-IL-5]",
+        "lastName": "Quigley",
+        "firstName": "Mike"
+    },
+    {
+        "party": "[D-WV-3]",
+        "lastName": "Rahall",
+        "firstName": "Nick J. II"
+    },
+    {
+        "party": "[D-NY-13]",
+        "lastName": "Rangel",
+        "firstName": "Charles B."
+    },
+    {
+        "party": "[R-NY-23]",
+        "lastName": "Reed",
+        "firstName": "Tom"
+    },
+    {
+        "party": "[R-WA-8]",
+        "lastName": "Reichert",
+        "firstName": "David G."
+    },
+    {
+        "party": "[R-OH-16]",
+        "lastName": "Renacci",
+        "firstName": "James B."
+    },
+    {
+        "party": "[R-WI-8]",
+        "lastName": "Ribble",
+        "firstName": "Reid J."
+    },
+    {
+        "party": "[R-SC-7]",
+        "lastName": "Rice",
+        "firstName": "Tom"
+    },
+    {
+        "party": "[D-LA-2]",
+        "lastName": "Richmond",
+        "firstName": "Cedric L."
+    },
+    {
+        "party": "[R-VA-2]",
+        "lastName": "Rigell",
+        "firstName": "E. Scott"
+    },
+    {
+        "party": "[R-AL-2]",
+        "lastName": "Roby",
+        "firstName": "Martha"
+    },
+    {
+        "party": "[R-TN-1]",
+        "lastName": "Roe",
+        "firstName": "David P."
+    },
+    {
+        "party": "[R-KY-5]",
+        "lastName": "Rogers",
+        "firstName": "Harold"
+    },
+    {
+        "party": "[R-AL-3]",
+        "lastName": "Rogers",
+        "firstName": "Mike D."
+    },
+    {
+        "party": "[R-MI-8]",
+        "lastName": "Rogers",
+        "firstName": "Mike J."
+    },
+    {
+        "party": "[R-CA-48]",
+        "lastName": "Rohrabacher",
+        "firstName": "Dana"
+    },
+    {
+        "party": "[R-IN-4]",
+        "lastName": "Rokita",
+        "firstName": "Todd"
+    },
+    {
+        "party": "[R-FL-17]",
+        "lastName": "Rooney",
+        "firstName": "Thomas J."
+    },
+    {
+        "party": "[R-FL-27]",
+        "lastName": "Ros-Lehtinen",
+        "firstName": "Ileana"
+    },
+    {
+        "party": "[R-IL-6]",
+        "lastName": "Roskam",
+        "firstName": "Peter J."
+    },
+    {
+        "party": "[R-FL-15]",
+        "lastName": "Ross",
+        "firstName": "Dennis A."
+    },
+    {
+        "party": "[R-PA-12]",
+        "lastName": "Rothfus",
+        "firstName": "Keith J."
+    },
+    {
+        "party": "[D-CA-40]",
+        "lastName": "Roybal-Allard",
+        "firstName": "Lucille"
+    },
+    {
+        "party": "[R-CA-39]",
+        "lastName": "Royce",
+        "firstName": "Edward R."
+    },
+    {
+        "party": "[D-CA-36]",
+        "lastName": "Ruiz",
+        "firstName": "Raul"
+    },
+    {
+        "party": "[R-NJ-3]",
+        "lastName": "Runyan",
+        "firstName": "Jon"
+    },
+    {
+        "party": "[D-MD-2]",
+        "lastName": "Ruppersberger",
+        "firstName": "C. A. Dutch"
+    },
+    {
+        "party": "[D-IL-1]",
+        "lastName": "Rush",
+        "firstName": "Bobby L."
+    },
+    {
+        "party": "[R-WI-1]",
+        "lastName": "Ryan",
+        "firstName": "Paul"
+    },
+    {
+        "party": "[D-OH-13]",
+        "lastName": "Ryan",
+        "firstName": "Tim"
+    },
+    {
+        "party": "[D-MP]",
+        "lastName": "Sablan",
+        "firstName": "Gregorio Kilili Camacho"
+    },
+    {
+        "party": "[R-AZ-5]",
+        "lastName": "Salmon",
+        "firstName": "Matt"
+    },
+    {
+        "party": "[D-CA-38]",
+        "lastName": "Sanchez",
+        "firstName": "Linda T."
+    },
+    {
+        "party": "[D-CA-46]",
+        "lastName": "Sanchez",
+        "firstName": "Loretta"
+    },
+    {
+        "party": "[R-SC-1]",
+        "lastName": "Sanford",
+        "firstName": "Mark"
+    },
+    {
+        "party": "[D-MD-3]",
+        "lastName": "Sarbanes",
+        "firstName": "John P."
+    },
+    {
+        "party": "[R-LA-1]",
+        "lastName": "Scalise",
+        "firstName": "Steve"
+    },
+    {
+        "party": "[D-IL-9]",
+        "lastName": "Schakowsky",
+        "firstName": "Janice D."
+    },
+    {
+        "party": "[D-CA-28]",
+        "lastName": "Schiff",
+        "firstName": "Adam B."
+    },
+    {
+        "party": "[D-IL-10]",
+        "lastName": "Schneider",
+        "firstName": "Bradley S."
+    },
+    {
+        "party": "[R-IL-18]",
+        "lastName": "Schock",
+        "firstName": "Aaron"
+    },
+    {
+        "party": "[D-OR-5]",
+        "lastName": "Schrader",
+        "firstName": "Kurt"
+    },
+    {
+        "party": "[D-PA-13]",
+        "lastName": "Schwartz",
+        "firstName": "Allyson Y."
+    },
+    {
+        "party": "[R-AZ-6]",
+        "lastName": "Schweikert",
+        "firstName": "David"
+    },
+    {
+        "party": "[R-GA-8]",
+        "lastName": "Scott",
+        "firstName": "Austin"
+    },
+    {
+        "party": "[D-GA-13]",
+        "lastName": "Scott",
+        "firstName": "David"
+    },
+    {
+        "party": "[D-VA-3]",
+        "lastName": "Scott",
+        "firstName": "Robert C. \"Bobby\""
+    },
+    {
+        "party": "[R-WI-5]",
+        "lastName": "Sensenbrenner",
+        "firstName": "F. James Jr."
+    },
+    {
+        "party": "[D-NY-15]",
+        "lastName": "Serrano",
+        "firstName": "Jose E."
+    },
+    {
+        "party": "[R-TX-32]",
+        "lastName": "Sessions",
+        "firstName": "Pete"
+    },
+    {
+        "party": "[D-AL-7]",
+        "lastName": "Sewell",
+        "firstName": "Terri A."
+    },
+    {
+        "party": "[D-NH-1]",
+        "lastName": "Shea-Porter",
+        "firstName": "Carol"
+    },
+    {
+        "party": "[D-CA-30]",
+        "lastName": "Sherman",
+        "firstName": "Brad"
+    },
+    {
+        "party": "[R-IL-15]",
+        "lastName": "Shimkus",
+        "firstName": "John"
+    },
+    {
+        "party": "[R-PA-9]",
+        "lastName": "Shuster",
+        "firstName": "Bill"
+    },
+    {
+        "party": "[R-ID-2]",
+        "lastName": "Simpson",
+        "firstName": "Michael K."
+    },
+    {
+        "party": "[D-AZ-9]",
+        "lastName": "Sinema",
+        "firstName": "Kyrsten"
+    },
+    {
+        "party": "[D-NJ-8]",
+        "lastName": "Sires",
+        "firstName": "Albio"
+    },
+    {
+        "party": "[D-NY-25]",
+        "lastName": "Slaughter",
+        "firstName": "Louise McIntosh"
+    },
+    {
+        "party": "[D-WA-9]",
+        "lastName": "Smith",
+        "firstName": "Adam"
+    },
+    {
+        "party": "[R-NE-3]",
+        "lastName": "Smith",
+        "firstName": "Adrian"
+    },
+    {
+        "party": "[R-NJ-4]",
+        "lastName": "Smith",
+        "firstName": "Christopher H."
+    },
+    {
+        "party": "[R-MO-8]",
+        "lastName": "Smith",
+        "firstName": "Jason T."
+    },
+    {
+        "party": "[R-TX-21]",
+        "lastName": "Smith",
+        "firstName": "Lamar"
+    },
+    {
+        "party": "[R-FL-2]",
+        "lastName": "Southerland",
+        "firstName": "Steve II"
+    },
+    {
+        "party": "[D-CA-14]",
+        "lastName": "Speier",
+        "firstName": "Jackie"
+    },
+    {
+        "party": "[R-UT-2]",
+        "lastName": "Stewart",
+        "firstName": "Chris"
+    },
+    {
+        "party": "[R-OH-15]",
+        "lastName": "Stivers",
+        "firstName": "Steve"
+    },
+    {
+        "party": "[R-TX-36]",
+        "lastName": "Stockman",
+        "firstName": "Steve"
+    },
+    {
+        "party": "[R-IN-3]",
+        "lastName": "Stutzman",
+        "firstName": "Marlin A."
+    },
+    {
+        "party": "[D-CA-15]",
+        "lastName": "Swalwell",
+        "firstName": "Eric"
+    },
+    {
+        "party": "[D-CA-41]",
+        "lastName": "Takano",
+        "firstName": "Mark"
+    },
+    {
+        "party": "[R-NE-2]",
+        "lastName": "Terry",
+        "firstName": "Lee"
+    },
+    {
+        "party": "[D-MS-2]",
+        "lastName": "Thompson",
+        "firstName": "Bennie G."
+    },
+    {
+        "party": "[R-PA-5]",
+        "lastName": "Thompson",
+        "firstName": "Glenn"
+    },
+    {
+        "party": "[D-CA-5]",
+        "lastName": "Thompson",
+        "firstName": "Mike"
+    },
+    {
+        "party": "[R-TX-13]",
+        "lastName": "Thornberry",
+        "firstName": "Mac"
+    },
+    {
+        "party": "[R-OH-12]",
+        "lastName": "Tiberi",
+        "firstName": "Patrick J."
+    },
+    {
+        "party": "[D-MA-6]",
+        "lastName": "Tierney",
+        "firstName": "John F."
+    },
+    {
+        "party": "[R-CO-3]",
+        "lastName": "Tipton",
+        "firstName": "Scott  R."
+    },
+    {
+        "party": "[D-NV-1]",
+        "lastName": "Titus",
+        "firstName": "Dina"
+    },
+    {
+        "party": "[D-NY-20]",
+        "lastName": "Tonko",
+        "firstName": "Paul"
+    },
+    {
+        "party": "[D-MA-3]",
+        "lastName": "Tsongas",
+        "firstName": "Niki"
+    },
+    {
+        "party": "[R-OH-10]",
+        "lastName": "Turner",
+        "firstName": "Michael R."
+    },
+    {
+        "party": "[R-MI-6]",
+        "lastName": "Upton",
+        "firstName": "Fred"
+    },
+    {
+        "party": "[R-CA-21]",
+        "lastName": "Valadao",
+        "firstName": "David G."
+    },
+    {
+        "party": "[D-MD-8]",
+        "lastName": "Van",
+        "firstName": "Hollen, Chris"
+    },
+    {
+        "party": "[D-CA-51]",
+        "lastName": "Vargas",
+        "firstName": "Juan"
+    },
+    {
+        "party": "[D-TX-33]",
+        "lastName": "Veasey",
+        "firstName": "Marc A."
+    },
+    {
+        "party": "[D-TX-34]",
+        "lastName": "Vela",
+        "firstName": "Filemon"
+    },
+    {
+        "party": "[D-NY-7]",
+        "lastName": "Velazquez",
+        "firstName": "Nydia M."
+    },
+    {
+        "party": "[D-IN-1]",
+        "lastName": "Visclosky",
+        "firstName": "Peter J."
+    },
+    {
+        "party": "[R-MO-2]",
+        "lastName": "Wagner",
+        "firstName": "Ann"
+    },
+    {
+        "party": "[R-MI-7]",
+        "lastName": "Walberg",
+        "firstName": "Tim"
+    },
+    {
+        "party": "[R-OR-2]",
+        "lastName": "Walden",
+        "firstName": "Greg"
+    },
+    {
+        "party": "[R-IN-2]",
+        "lastName": "Walorski",
+        "firstName": "Jackie"
+    },
+    {
+        "party": "[D-MN-1]",
+        "lastName": "Walz",
+        "firstName": "Timothy J."
+    },
+    {
+        "party": "[D-FL-23]",
+        "lastName": "Wasserman",
+        "firstName": "Schultz, Debbie"
+    },
+    {
+        "party": "[D-CA-43]",
+        "lastName": "Waters",
+        "firstName": "Maxine"
+    },
+    {
+        "party": "[D-CA-33]",
+        "lastName": "Waxman",
+        "firstName": "Henry A."
+    },
+    {
+        "party": "[R-TX-14]",
+        "lastName": "Weber",
+        "firstName": "Randy K. Sr."
+    },
+    {
+        "party": "[R-FL-10]",
+        "lastName": "Webster",
+        "firstName": "Daniel"
+    },
+    {
+        "party": "[D-VT]",
+        "lastName": "Welch",
+        "firstName": "Peter"
+    },
+    {
+        "party": "[R-OH-2]",
+        "lastName": "Wenstrup",
+        "firstName": "Brad R."
+    },
+    {
+        "party": "[R-GA-3]",
+        "lastName": "Westmoreland",
+        "firstName": "Lynn A."
+    },
+    {
+        "party": "[R-KY-1]",
+        "lastName": "Whitfield",
+        "firstName": "Ed"
+    },
+    {
+        "party": "[R-TX-25]",
+        "lastName": "Williams",
+        "firstName": "Roger"
+    },
+    {
+        "party": "[D-FL-24]",
+        "lastName": "Wilson",
+        "firstName": "Frederica S."
+    },
+    {
+        "party": "[R-SC-2]",
+        "lastName": "Wilson",
+        "firstName": "Joe"
+    },
+    {
+        "party": "[R-VA-1]",
+        "lastName": "Wittman",
+        "firstName": "Robert J."
+    },
+    {
+        "party": "[R-VA-10]",
+        "lastName": "Wolf",
+        "firstName": "Frank R."
+    },
+    {
+        "party": "[R-AR-3]",
+        "lastName": "Womack",
+        "firstName": "Steve"
+    },
+    {
+        "party": "[R-GA-7]",
+        "lastName": "Woodall",
+        "firstName": "Rob"
+    },
+    {
+        "party": "[D-KY-3]",
+        "lastName": "Yarmuth",
+        "firstName": "John A."
+    },
+    {
+        "party": "[R-KS-3]",
+        "lastName": "Yoder",
+        "firstName": "Kevin"
+    },
+    {
+        "party": "[R-FL-3]",
+        "lastName": "Yoho",
+        "firstName": "Ted S."
+    },
+    {
+        "party": "[R-AK]",
+        "lastName": "Young",
+        "firstName": "Don"
+    },
+    {
+        "party": "[R-IN-9]",
+        "lastName": "Young",
+        "firstName": "Todd C."
+    }
+]
