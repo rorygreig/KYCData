@@ -24,7 +24,6 @@ new yql.exec(getTargetsQuery, function(response) {
     var result = Object();
     var values = target.td;
 
-    result.object = "firm";
     result.entity_name = values[0].font.content;
 
     result.address_country = values[2].font.content;
@@ -50,8 +49,7 @@ new yql.exec(getTargetsQuery, function(response) {
     result.uri = url;
     result.list_type = "sanctions";
     result.created_at = new Date().getTime();
-
-
+    result.object = "Organisation";
 
     results.push(result);
   });
