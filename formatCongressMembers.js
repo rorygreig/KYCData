@@ -31,7 +31,7 @@ function extractValues(nameStr){
   result.lastName = fields.shift().replace(',', ' ').trim();
   result.firstName = fields.reduce(function(accumulator, currentValue, index, array) {
     return accumulator + ' ' + currentValue.replace(',', ' ').trim();
-  });;
+  });
   return result;
 }
 
